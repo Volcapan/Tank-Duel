@@ -1,0 +1,11 @@
+{
+    "playerTank": [{
+        "firepower": 200,
+        "mobility": 20,
+        "armor": 70,
+        "name": "SU-100",
+        "health": 210,
+        "type": "Tank Destroyer"
+    }],
+    "playerHealth": -70
+}

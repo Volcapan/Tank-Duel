@@ -1,0 +1,13 @@
+{
+  "playerTank": [
+    {
+      "type": "Light Tank",
+      "name": "M24 Chaffee",
+      "armor": 40,
+      "firepower": 120,
+      "mobility": 40,
+      "health": 140
+    }
+  ],
+  "playerHealth": 140
+}

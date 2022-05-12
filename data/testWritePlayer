@@ -1,0 +1,11 @@
+{
+    "playerTank": [{
+        "firepower": 1,
+        "mobility": 1,
+        "armor": 1,
+        "name": "a",
+        "health": 1,
+        "type": "Light Tank"
+    }],
+    "playerHealth": 2
+}

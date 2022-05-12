@@ -1,0 +1,11 @@
+{
+    "playerTank": [{
+        "firepower": 210,
+        "mobility": 15,
+        "armor": 100,
+        "name": "Tiger II",
+        "health": 320,
+        "type": "Heavy Tank"
+    }],
+    "playerHealth": 120
+}

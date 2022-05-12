@@ -1,0 +1,34 @@
+{"tankList": [
+    {
+        "firepower": 120,
+        "mobility": 40,
+        "armor": 40,
+        "name": "M24 Chaffee",
+        "health": 140,
+        "type": "Light Tank"
+    },
+    {
+        "firepower": 140,
+        "mobility": 30,
+        "armor": 70,
+        "name": "Comet",
+        "health": 280,
+        "type": "Medium Tank"
+    },
+    {
+        "firepower": 210,
+        "mobility": 15,
+        "armor": 100,
+        "name": "Tiger II",
+        "health": 320,
+        "type": "Heavy Tank"
+    },
+    {
+        "firepower": 200,
+        "mobility": 20,
+        "armor": 70,
+        "name": "SU-100",
+        "health": 210,
+        "type": "Tank Destroyer"
+    }
+]}
